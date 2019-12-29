@@ -17,5 +17,5 @@
 * `git branch <name of the branch>`- creates a new timeline
   * `git checkout <name of the branch>` - switches to the branch
   * `git checkout -b <name of the branch>`- does both at the same time
-  * `git merge <source-branch>`- marge
+  * `git merge <source-branch>`- merge
   
